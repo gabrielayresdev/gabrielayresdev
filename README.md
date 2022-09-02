@@ -11,10 +11,8 @@ Hi I'm [Gabriel](https://www.linkedin.com/in/gabriel-ayres-fortunato/), a 🎓 s
 - 📈 I’m coding in JavaScript, HTML and CSS;
 <br />
 
-**Technologies that I like:**
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"  width="40" height="40" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"   width="40" height="40" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript//javascript-original.svg"   width="33" height="33" /> 
+## Technologies that I like:
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"  width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"   width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript//javascript-original.svg"   width="33" height="33" /> 
 
 
 <!--
