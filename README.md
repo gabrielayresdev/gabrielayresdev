@@ -1,14 +1,14 @@
 ### Gabriel Ayres 👋
 
-Hi I'm [Gabriel](https://www.linkedin.com/in/gabriel-ayres-fortunato/), a 🎓 student of Computer Science at UFRJ and a Web Developer from Brazil.
+Olá, me chamo [Gabriel](https://www.linkedin.com/in/gabrielayresdev/), sou Desenvolvedor Front-end e 🎓 estudante de Ciência da Computação na UFRJ.
 
-- :coffee: I’m currently studying JavaScript;
+- :coffee: Estou atualmente estudando JavaScript, React e NodeJS;
 
-- :video_game: My favorite games are Valorant and Dark souls;  
+- :video_game: Meu hobby favorito são jogos. Meus jogos favoritos são Valorant e Dark Souls III;  
 
-- :e-mail: You can reach me [here](https://www.linkedin.com/in/gabriel-ayres-fortunato/);
+- :contato: Você pode me contactar através desse [email](https://www.linkedin.com/in/gabriel-ayres-fortunato/) ou me enviar um pedido de conexão no [LinkedIn](https://www.linkedin.com/in/gabrielayresdev/);
   
-- 📈 I’m coding in JavaScript, HTML and CSS;
+- 📈 Estou programando em HTML, CSS, JavaScript, React e Tailwind css;
 <br />
 
 ## Technologies that I like:
