@@ -6,7 +6,7 @@ Olá, me chamo [Gabriel](https://www.linkedin.com/in/gabrielayresdev/), sou Dese
 
 - :video_game: Meu hobby favorito são jogos. Meus jogos favoritos são Valorant e Dark Souls III;  
 
-- :contato: Você pode me contactar através desse [email](https://www.linkedin.com/in/gabriel-ayres-fortunato/) ou me enviar um pedido de conexão no [LinkedIn](https://www.linkedin.com/in/gabrielayresdev/);
+- :e-mail: Você pode me contactar através desse [email](https://www.linkedin.com/in/gabriel-ayres-fortunato/) ou me enviar um pedido de conexão no [LinkedIn](https://www.linkedin.com/in/gabrielayresdev/);
   
 - 📈 Estou programando em HTML, CSS, JavaScript, React e Tailwind css;
 <br />
