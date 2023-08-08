@@ -10,7 +10,11 @@ Olá, me chamo [Gabriel](https://www.linkedin.com/in/gabrielayresdev/), sou Dese
   
 - 📈 Estou programando em HTML, CSS, JavaScript, React e Tailwind css;
 <br />
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielayresdev&" alt="gabrielayresdev" /></p>
+
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=gabrielayresdev&theme=dark&hide_border=true&locale=pt_BR&hide_longest_streak=true" />
+    <img src="https://streak-stats.demolab.com?user=DenverCoder1&theme=default" />
+</picture>
 
 ## Principais tecnologias:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"  width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"   width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript//javascript-original.svg"   width="33" height="33" /> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg"   width="33" height="33" /> <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg"   width="33" height="33" />
