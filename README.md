@@ -8,7 +8,7 @@ Olá, me chamo [Gabriel](https://www.linkedin.com/in/gabrielayresdev/), sou Dese
 
 - :e-mail: Você pode me contactar através desse [email](https://www.linkedin.com/in/gabriel-ayres-fortunato/) ou me enviar um pedido de conexão no [LinkedIn](https://www.linkedin.com/in/gabrielayresdev/);
   
-- 📈 Estou programando em HTML, CSS, JavaScript, React e Tailwind css;
+- 📈 Estou programando em HTML, CSS, JavaScript, React, Tailwind css e SCSS;
 <br />
 
 <picture>
@@ -17,5 +17,5 @@ Olá, me chamo [Gabriel](https://www.linkedin.com/in/gabrielayresdev/), sou Dese
 </picture>
 
 ## Principais tecnologias:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"  width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"   width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript//javascript-original.svg"   width="33" height="33" /> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg"   width="33" height="33" /> <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg"   width="33" height="33" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"  width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"   width="40" height="40" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript//javascript-original.svg"   width="33" height="33" /> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg"   width="33" height="33" />  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg"   width="33" height="33" /><img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg"   width="33" height="33" />
 
