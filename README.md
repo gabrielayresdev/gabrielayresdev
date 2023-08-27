@@ -12,7 +12,7 @@ Olá, me chamo [Gabriel](https://www.linkedin.com/in/gabrielayresdev/), sou Dese
 <br />
 
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=gabrielayresdev&theme=dark&hide_border=true&locale=pt_BR&hide_longest_streak=true" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=gabrielayresdev&theme=dark&hide_border=true&locale=pt_BR" />
     <img src="https://streak-stats.demolab.com?user=DenverCoder1&theme=default" />
 </picture>
 
