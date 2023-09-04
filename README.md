@@ -2,7 +2,7 @@
 
 Olá, me chamo [Gabriel](https://www.linkedin.com/in/gabrielayresdev/), sou Desenvolvedor Front-end e 🎓 estudante de Ciência da Computação na UFRJ.
 
-- :coffee: Estou atualmente estudando JavaScript, React e NodeJS;
+- :coffee: Estou atualmente estudando Typescript, JavaScript e React;
 
 - :video_game: Meu hobby favorito são jogos. Meus jogos favoritos são Valorant e Dark Souls III;  
 
@@ -17,5 +17,5 @@ Olá, me chamo [Gabriel](https://www.linkedin.com/in/gabrielayresdev/), sou Dese
 </picture>
 
 ## Principais tecnologias:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"  width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"   width="40" height="40" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript//javascript-original.svg"   width="33" height="33" /> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg"   width="33" height="33" />  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg"   width="33" height="33" /><img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg"   width="33" height="33" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"  width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"   width="40" height="40" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript//javascript-original.svg"   width="33" height="33" />  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"   width="33" height="33" />  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg"   width="33" height="33" />  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg"   width="33" height="33" />  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg"   width="33" height="33" />
 
