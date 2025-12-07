@@ -1,16 +1,20 @@
-### Gabriel Ayres 👋
+### Gabriel Ayres
 
-Olá, me chamo [Gabriel](https://www.linkedin.com/in/gabrielayresdev/), sou Desenvolvedor Front-end e 🎓 estudante de Ciência da Computação na UFRJ.
+Technology enthusiast curious about diverse fields, with a primary focus on **Backend development**.
 
-- :coffee: Estou atualmente estudando Typescript e React;
+Computer Science undergraduate at UFRJ 🎓 with a strong focus on Backend development. Experienced in **Mobile (Flutter)** and **Web solutions**, coding since 2018, delivering professional software since 2023.
 
-- :video_game: Meu hobby favorito são jogos. Meus jogos favoritos são Valorant e Dark Souls III;  
+Currently working as Mobile Developer at [CAPGov](https://capgov.cos.ufrj.br) and as Web Developer at [EJCM](https://ejcm.com.br)
 
-- :e-mail: Você pode me contactar através desse do email gabriel.ar.fort@gmail.com ou me enviar um pedido de conexão no [LinkedIn](https://www.linkedin.com/in/gabrielayresdev/);
-  
-- 📈 Estou programando em HTML, CSS, JavaScript, React, Tailwind css e SCSS;
-<br />
+<br/>
 
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+<br/>
+
+![](https://nirzak-streak-stats.vercel.app/?user=gabrielayresdev&theme=dark&hide_border=false)<br/>
+
+<!---
 
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=gabrielayresdev&theme=dark&hide_border=true&locale=pt_BR" />
@@ -18,8 +22,4 @@ Olá, me chamo [Gabriel](https://www.linkedin.com/in/gabrielayresdev/), sou Dese
 </picture>
 
 
-## Principais tecnologias:
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,react,jest,sass,tailwind,java,spring&theme=dark)](https://skillicons.dev)
-<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"  width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"   width="40" height="40" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript//javascript-original.svg"   width="33" height="33" />  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"   width="33" height="33" />  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg"   width="33" height="33" />  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg"   width="33" height="33" />  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg"   width="33" height="33" /> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Jest.svg"   width="33" height="33" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original-wordmark.svg" />
-  -->       
-
+--->
